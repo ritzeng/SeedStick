@@ -42,7 +42,8 @@ Overview:
 - 4. compile and upload code to SeedStick
 - 5. remove SeedStick
 - 6. connect to your network
-- 7. open IOTA Wallet
-- 8. test and use it
+- 7. open IOTA Wallet, place cursor to the SEED entry
+- 8. test and use it: stick the SeedStick to a USB port and wait 1-2 seconds to fill
+- 9. remove SeedStick
 - be happy 
 
