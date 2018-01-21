@@ -7,8 +7,8 @@ DIY Build of IOTA SEED Management consists of the components:
 - (Optional Photoresistor)
 - Arduino Development Environment with ATTINY85 drivers (http://arduiono.cc)
 - 2 Versions of Code
----- Plug & Play needs only the board, add the One Seed in the code and compile (Community edition)
----- 9 Seed Version needs some small assembly of a Photoresistor and work provided by a video in Youtube (tbd>)
+- 1. Plug & Play needs only the board, add the One Seed in the code and compile (Community edition)
+- 2. Nine (9) Seed Version needs some small assembly of a Photoresistor and work provided by a video in Youtube (tbd>)
 
 Plug and Play Version
 ---------------------
