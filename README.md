@@ -49,3 +49,8 @@ Overview:
 
 5. Handling the Arduino environment
 - <tbd>
+
+
+6. Where to buy
+- Complete: https://www.ritzeng.com/?avada_portfolio=seedstick
+- Digispark board: https://de.aliexpress.com/item/Free-shipping-1pcs-Digispark-kickstarter-development-board-ATTINY85-module-for-Arduino-usb/32697283942.html
